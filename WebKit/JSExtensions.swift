@@ -10,6 +10,7 @@
 //  
 
 import Foundation
+import WebKit
 
 extension WKWebView {
     enum EvaluateJavaScriptError: String, Error {
